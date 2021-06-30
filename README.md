@@ -1,7 +1,5 @@
-
-
-<h2> Hey there! I'm Teddy. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<h2> Hey there! I'm Teddy. <img src="https://github.com/teddylun/teddylun/blob/master/assets/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/teddylun/teddylun/master/assets/gif4.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,7 +8,6 @@
 - 🎓 &nbsp; Studying Computer Engineering.
 - 💼 &nbsp; Full stack web developer.
 - 🌱 &nbsp; Enthusiast in automating chores.
-- 🇬🇧 &nbsp; Relocated to UK recently and job seeking
 - 👨‍🍳 &nbsp; Cooking at home | Netflix | listening music as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
@@ -71,6 +68,6 @@
 <a href="https://instagram.com/teddylunlun"><img src="https://img.shields.io/badge/-@teddylunlun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
------
+---
 
 Last Edited on: 30/06/2021
