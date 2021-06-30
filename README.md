@@ -68,6 +68,10 @@
 <a href="https://instagram.com/teddylunlun"><img src="https://img.shields.io/badge/-@teddylunlun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
+### 📲 &nbsp; Visitor count
+
+![Visitor Count](https://profile-counter.glitch.me/{teddylun}/count.svg)
+
 ---
 
 Last Edited on: 30/06/2021
