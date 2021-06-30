@@ -3,13 +3,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently reviewing algorithm.
+- 💼 &nbsp; Full stack developer from 🇭🇰 Hong Kong, currently live in 🇬🇧 United Kingdom.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Engineering.
-- 💼 &nbsp; Full stack web developer.
-- 🌱 &nbsp; Enthusiast in automating chores.
+- 🎓 &nbsp; Graduated from HKUST in Computer Engineering.
+- 🌱 &nbsp; Enthusiast in automating chores and reviewing algorithm
 - 👨‍🍳 &nbsp; Cooking at home | Netflix | listening music as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,6 +34,7 @@
 ![JSON](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Teamcity](https://img.shields.io/badge/-Teamcity-05122A?style=flat&logo=teamcity)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
