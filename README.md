@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Teddy. <img src="https://github.com/teddylun/teddylun/master/assets/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Teddy. <img src="https://raw.githubusercontent.com/teddylun/teddylun/master/assets/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/teddylun/teddylun/master/assets/gif4.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
