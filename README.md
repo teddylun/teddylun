@@ -16,7 +16,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=story-book)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
