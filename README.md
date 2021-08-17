@@ -6,7 +6,7 @@
 - 💼 &nbsp; Full stack developer from 🇭🇰 Hong Kong, currently live in 🇬🇧 United Kingdom.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from HKUST in Computer Engineering.
-- 🌱 &nbsp; Enthusiast in automating chores and reviewing algorithm
+- 🌱 &nbsp; Enthusiast in automating chores with Javascript
 - 👨‍🍳 &nbsp; Cooking at home | Netflix | listening music as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
@@ -75,4 +75,4 @@
 
 ---
 
-Last Edited on: 30/06/2021
+Last Edited on: 17/08/2021
