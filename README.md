@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Full stack developer from 🇭🇰 Hong Kong, currently live in 🇬🇧 United Kingdom.
+- 💼 &nbsp; Full stack developer from 🇭🇰 Hong Kong, currently live in 🇬🇧 London.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated from HKUST in Computer Engineering.
 - 🌱 &nbsp; Enthusiast in automating chores with Javascript
@@ -66,7 +66,6 @@
 <a href="https://www.xtool.one/teddy"><img src="https://img.shields.io/badge/-xtool.one-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/teddylun"><img src="https://img.shields.io/badge/-Teddy%20Lun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yhlun@connect.ust.hk"><img src="https://img.shields.io/badge/-yhlun@connect.ust.hk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/teddylunlun"><img src="https://img.shields.io/badge/-@teddylunlun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### 📲 &nbsp; Visitor count
